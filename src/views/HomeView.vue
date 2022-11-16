@@ -1,12 +1,12 @@
 <template>
-  <div class="justify-center flex bg-yellow-300 items-center h-screen">
-    <div class="text-4xl">Hello 👋🏼</div>
-  </div>
+  <landing-page-layout />
 </template>
 <script lang="ts">
+import LandingPageLayout from "@/components/LandingPageLayout.vue";
 import { defineComponent } from "vue";
 
 export default defineComponent({
+  components: { LandingPageLayout },
   name: "HomeView",
   // setup() {},
 });
