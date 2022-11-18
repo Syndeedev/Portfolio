@@ -3,7 +3,7 @@
     <div class="max-w-screen-xl m-auto">
       <div class="flex flex-col md:flex-row px-6 md:pr-0 md:pl-10">
         <div
-          class="static text-white flex flex-col justify-between w-full md:fixed md:h-screen md:max-w-496 py-10 md:py-14 lg:py-24 lg:pl-20"
+          class="static text-white flex flex-col justify-between w-full md:w-1/2 lg:w-2/5 md:fixed md:h-screen md:max-w-496 py-10 md:py-14 lg:py-24 lg:pl-20"
         >
           <div class="md:max-w-[390px] lg:max-w-[420px] flex flex-col">
             <span class="text-6xl font-bold">Cynthia Ineh</span>
