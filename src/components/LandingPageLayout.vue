@@ -51,220 +51,10 @@
         <div
           class="w-full md:w-1/2 py-10 lg:py-20 text-white md:pl-10 md:pr-10"
         >
-          <router-view />
           <div class="group">
-            <article
-              id="project"
-              class="transition cursor-pointer my-6 md:hover:opacity-important md:hover:scale-110"
-            >
-              <div class="bg-[#202022] p-8 rounded flex flex-col">
-                <span>Typescript</span>
-                <span class="text-2xl font-bold tracking-wide">Rilicare</span>
-                <span>A solution in the health industry.</span>
-                <div class="flex items-center mt-4">
-                  <div class="w-5 h-5 p-1 mr-1">
-                    <svg
-                      viewBox="0 0 46.4 46.4"
-                      aria-hidden="true"
-                      class="w-full h-full -mt-px fill-current"
-                    >
-                      <path
-                        d="M21.6 2c.3-.6.9-1 1.6-1 .7 0 1.3.4 1.6 1l5.8 11.7c.3.5.8.9 1.4 1l12.8 1.9c.7.1 1.2.6 1.4 1.2.2.6 0 1.4-.5 1.8l-9.3 9.1c-.4.4-.6 1-.5 1.6l2.2 12.9c.1.7-.2 1.4-.7 1.8-.6.4-1.3.5-1.9.1L24 39c-.5-.3-1.1-.3-1.7 0l-11.5 6.1c-.6.3-1.3.3-1.9-.1-.6-.4-.8-1.1-.7-1.8l2.2-12.9c.1-.6-.1-1.2-.5-1.6l-9.4-9c-.5-.5-.7-1.2-.5-1.8.2-.6.8-1.1 1.4-1.2l12.9-1.9c.6-.1 1.1-.5 1.4-1L21.6 2z"
-                      ></path>
-                    </svg>
-                  </div>
-                  <span
-                    class="-mt-px text-xs font-semibold leading-none tracking-wider"
-                    ><span class="sr-only mr-1">Year</span> 2022</span
-                  >
-                </div>
-              </div>
-            </article>
-            <article
-              class="transition cursor-pointer my-6 md:hover:opacity-important md:hover:scale-110"
-            >
-              <div class="bg-[#202022] p-8 rounded flex flex-col">
-                <span>Typescript</span>
-                <span class="text-2xl font-bold tracking-wide">Rilicare</span>
-                <span>A solution in the health industry.</span>
-                <div class="flex items-center mt-4">
-                  <div class="w-5 h-5 p-1 mr-1">
-                    <svg
-                      viewBox="0 0 46.4 46.4"
-                      aria-hidden="true"
-                      class="w-full h-full -mt-px fill-current"
-                    >
-                      <path
-                        d="M21.6 2c.3-.6.9-1 1.6-1 .7 0 1.3.4 1.6 1l5.8 11.7c.3.5.8.9 1.4 1l12.8 1.9c.7.1 1.2.6 1.4 1.2.2.6 0 1.4-.5 1.8l-9.3 9.1c-.4.4-.6 1-.5 1.6l2.2 12.9c.1.7-.2 1.4-.7 1.8-.6.4-1.3.5-1.9.1L24 39c-.5-.3-1.1-.3-1.7 0l-11.5 6.1c-.6.3-1.3.3-1.9-.1-.6-.4-.8-1.1-.7-1.8l2.2-12.9c.1-.6-.1-1.2-.5-1.6l-9.4-9c-.5-.5-.7-1.2-.5-1.8.2-.6.8-1.1 1.4-1.2l12.9-1.9c.6-.1 1.1-.5 1.4-1L21.6 2z"
-                      ></path>
-                    </svg>
-                  </div>
-                  <span
-                    class="-mt-px text-xs font-semibold leading-none tracking-wider"
-                    ><span class="sr-only mr-1">Year</span> 2022</span
-                  >
-                </div>
-              </div>
-            </article>
-            <article
-              class="transition cursor-pointer my-6 md:hover:opacity-important md:hover:scale-110"
-            >
-              <div class="bg-[#202022] p-8 rounded flex flex-col">
-                <span>Typescript</span>
-                <span class="text-2xl font-bold tracking-wide">Rilicare</span>
-                <span>A solution in the health industry.</span>
-                <div class="flex items-center mt-4">
-                  <div class="w-5 h-5 p-1 mr-1">
-                    <svg
-                      viewBox="0 0 46.4 46.4"
-                      aria-hidden="true"
-                      class="w-full h-full -mt-px fill-current"
-                    >
-                      <path
-                        d="M21.6 2c.3-.6.9-1 1.6-1 .7 0 1.3.4 1.6 1l5.8 11.7c.3.5.8.9 1.4 1l12.8 1.9c.7.1 1.2.6 1.4 1.2.2.6 0 1.4-.5 1.8l-9.3 9.1c-.4.4-.6 1-.5 1.6l2.2 12.9c.1.7-.2 1.4-.7 1.8-.6.4-1.3.5-1.9.1L24 39c-.5-.3-1.1-.3-1.7 0l-11.5 6.1c-.6.3-1.3.3-1.9-.1-.6-.4-.8-1.1-.7-1.8l2.2-12.9c.1-.6-.1-1.2-.5-1.6l-9.4-9c-.5-.5-.7-1.2-.5-1.8.2-.6.8-1.1 1.4-1.2l12.9-1.9c.6-.1 1.1-.5 1.4-1L21.6 2z"
-                      ></path>
-                    </svg>
-                  </div>
-                  <span
-                    class="-mt-px text-xs font-semibold leading-none tracking-wider"
-                    ><span class="sr-only mr-1">Year</span> 2022</span
-                  >
-                </div>
-              </div>
-            </article>
-            <article
-              class="transition cursor-pointer my-6 md:hover:opacity-important md:hover:scale-110"
-            >
-              <div class="bg-[#202022] p-8 rounded flex flex-col">
-                <span>Typescript</span>
-                <span class="text-2xl font-bold tracking-wide">Rilicare</span>
-                <span>A solution in the health industry.</span>
-                <div class="flex items-center mt-4">
-                  <div class="w-5 h-5 p-1 mr-1">
-                    <svg
-                      viewBox="0 0 46.4 46.4"
-                      aria-hidden="true"
-                      class="w-full h-full -mt-px fill-current"
-                    >
-                      <path
-                        d="M21.6 2c.3-.6.9-1 1.6-1 .7 0 1.3.4 1.6 1l5.8 11.7c.3.5.8.9 1.4 1l12.8 1.9c.7.1 1.2.6 1.4 1.2.2.6 0 1.4-.5 1.8l-9.3 9.1c-.4.4-.6 1-.5 1.6l2.2 12.9c.1.7-.2 1.4-.7 1.8-.6.4-1.3.5-1.9.1L24 39c-.5-.3-1.1-.3-1.7 0l-11.5 6.1c-.6.3-1.3.3-1.9-.1-.6-.4-.8-1.1-.7-1.8l2.2-12.9c.1-.6-.1-1.2-.5-1.6l-9.4-9c-.5-.5-.7-1.2-.5-1.8.2-.6.8-1.1 1.4-1.2l12.9-1.9c.6-.1 1.1-.5 1.4-1L21.6 2z"
-                      ></path>
-                    </svg>
-                  </div>
-                  <span
-                    class="-mt-px text-xs font-semibold leading-none tracking-wider"
-                    ><span class="sr-only mr-1">Year</span> 2022</span
-                  >
-                </div>
-              </div>
-            </article>
-            <article
-              class="transition cursor-pointer my-6 md:hover:opacity-important md:hover:scale-110"
-            >
-              <div class="bg-[#202022] p-8 rounded flex flex-col">
-                <span>Typescript</span>
-                <span class="text-2xl font-bold tracking-wide">Rilicare</span>
-                <span>A solution in the health industry.</span>
-                <div class="flex items-center mt-4">
-                  <div class="w-5 h-5 p-1 mr-1">
-                    <svg
-                      viewBox="0 0 46.4 46.4"
-                      aria-hidden="true"
-                      class="w-full h-full -mt-px fill-current"
-                    >
-                      <path
-                        d="M21.6 2c.3-.6.9-1 1.6-1 .7 0 1.3.4 1.6 1l5.8 11.7c.3.5.8.9 1.4 1l12.8 1.9c.7.1 1.2.6 1.4 1.2.2.6 0 1.4-.5 1.8l-9.3 9.1c-.4.4-.6 1-.5 1.6l2.2 12.9c.1.7-.2 1.4-.7 1.8-.6.4-1.3.5-1.9.1L24 39c-.5-.3-1.1-.3-1.7 0l-11.5 6.1c-.6.3-1.3.3-1.9-.1-.6-.4-.8-1.1-.7-1.8l2.2-12.9c.1-.6-.1-1.2-.5-1.6l-9.4-9c-.5-.5-.7-1.2-.5-1.8.2-.6.8-1.1 1.4-1.2l12.9-1.9c.6-.1 1.1-.5 1.4-1L21.6 2z"
-                      ></path>
-                    </svg>
-                  </div>
-                  <span
-                    class="-mt-px text-xs font-semibold leading-none tracking-wider"
-                    ><span class="sr-only mr-1">Year</span> 2022</span
-                  >
-                </div>
-              </div>
-            </article>
-            <article
-              class="transition cursor-pointer my-6 md:hover:opacity-important md:hover:scale-110"
-            >
-              <div class="bg-[#202022] p-8 rounded flex flex-col">
-                <span>Typescript</span>
-                <span class="text-2xl font-bold tracking-wide">Rilicare</span>
-                <span>A solution in the health industry.</span>
-                <div class="flex items-center mt-4">
-                  <div class="w-5 h-5 p-1 mr-1">
-                    <svg
-                      viewBox="0 0 46.4 46.4"
-                      aria-hidden="true"
-                      class="w-full h-full -mt-px fill-current"
-                    >
-                      <path
-                        d="M21.6 2c.3-.6.9-1 1.6-1 .7 0 1.3.4 1.6 1l5.8 11.7c.3.5.8.9 1.4 1l12.8 1.9c.7.1 1.2.6 1.4 1.2.2.6 0 1.4-.5 1.8l-9.3 9.1c-.4.4-.6 1-.5 1.6l2.2 12.9c.1.7-.2 1.4-.7 1.8-.6.4-1.3.5-1.9.1L24 39c-.5-.3-1.1-.3-1.7 0l-11.5 6.1c-.6.3-1.3.3-1.9-.1-.6-.4-.8-1.1-.7-1.8l2.2-12.9c.1-.6-.1-1.2-.5-1.6l-9.4-9c-.5-.5-.7-1.2-.5-1.8.2-.6.8-1.1 1.4-1.2l12.9-1.9c.6-.1 1.1-.5 1.4-1L21.6 2z"
-                      ></path>
-                    </svg>
-                  </div>
-                  <span
-                    class="-mt-px text-xs font-semibold leading-none tracking-wider"
-                    ><span class="sr-only mr-1">Year</span> 2022</span
-                  >
-                </div>
-              </div>
-            </article>
-            <article
-              id="resume"
-              class="transition cursor-pointer my-6 md:hover:opacity-important md:hover:scale-110"
-            >
-              <div class="bg-[#202022] p-8 rounded flex flex-col">
-                <span>Typescript - Resume</span>
-                <span class="text-2xl font-bold tracking-wide">Rilicare</span>
-                <span>A solution in the health industry.</span>
-                <div class="flex items-center mt-4">
-                  <div class="w-5 h-5 p-1 mr-1">
-                    <svg
-                      viewBox="0 0 46.4 46.4"
-                      aria-hidden="true"
-                      class="w-full h-full -mt-px fill-current"
-                    >
-                      <path
-                        d="M21.6 2c.3-.6.9-1 1.6-1 .7 0 1.3.4 1.6 1l5.8 11.7c.3.5.8.9 1.4 1l12.8 1.9c.7.1 1.2.6 1.4 1.2.2.6 0 1.4-.5 1.8l-9.3 9.1c-.4.4-.6 1-.5 1.6l2.2 12.9c.1.7-.2 1.4-.7 1.8-.6.4-1.3.5-1.9.1L24 39c-.5-.3-1.1-.3-1.7 0l-11.5 6.1c-.6.3-1.3.3-1.9-.1-.6-.4-.8-1.1-.7-1.8l2.2-12.9c.1-.6-.1-1.2-.5-1.6l-9.4-9c-.5-.5-.7-1.2-.5-1.8.2-.6.8-1.1 1.4-1.2l12.9-1.9c.6-.1 1.1-.5 1.4-1L21.6 2z"
-                      ></path>
-                    </svg>
-                  </div>
-                  <span
-                    class="-mt-px text-xs font-semibold leading-none tracking-wider"
-                    ><span class="sr-only mr-1">Year</span> 2022</span
-                  >
-                </div>
-              </div>
-            </article>
-
-            <article
-              id="contact"
-              class="transition cursor-pointer my-6 md:hover:opacity-important md:hover:scale-110"
-            >
-              <div class="bg-[#202022] p-8 rounded flex flex-col">
-                <span>Typescript</span>
-                <span class="text-2xl font-bold tracking-wide">Rilicare</span>
-                <span>A solution in the health industry.</span>
-                <div class="flex items-center mt-4">
-                  <div class="w-5 h-5 p-1 mr-1">
-                    <svg
-                      viewBox="0 0 46.4 46.4"
-                      aria-hidden="true"
-                      class="w-full h-full -mt-px fill-current"
-                    >
-                      <path
-                        d="M21.6 2c.3-.6.9-1 1.6-1 .7 0 1.3.4 1.6 1l5.8 11.7c.3.5.8.9 1.4 1l12.8 1.9c.7.1 1.2.6 1.4 1.2.2.6 0 1.4-.5 1.8l-9.3 9.1c-.4.4-.6 1-.5 1.6l2.2 12.9c.1.7-.2 1.4-.7 1.8-.6.4-1.3.5-1.9.1L24 39c-.5-.3-1.1-.3-1.7 0l-11.5 6.1c-.6.3-1.3.3-1.9-.1-.6-.4-.8-1.1-.7-1.8l2.2-12.9c.1-.6-.1-1.2-.5-1.6l-9.4-9c-.5-.5-.7-1.2-.5-1.8.2-.6.8-1.1 1.4-1.2l12.9-1.9c.6-.1 1.1-.5 1.4-1L21.6 2z"
-                      ></path>
-                    </svg>
-                  </div>
-                  <span
-                    class="-mt-px text-xs font-semibold leading-none tracking-wider"
-                    ><span class="sr-only mr-1">Year</span> 2022</span
-                  >
-                </div>
-              </div>
-            </article>
+            <div v-for="(project, index) in projects" :key="index">
+              <project-card :project="project" />
+            </div>
           </div>
         </div>
       </div>
@@ -273,10 +63,56 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from "vue";
-
+import { defineComponent, ref } from "vue";
+import ProjectCard from "./ProjectCard.vue";
+import Project from "@/Project";
 export default defineComponent({
-  //   setup() {},
+  components: { ProjectCard },
+  setup() {
+    const projects = ref<Project[]>([
+      {
+        name: "Kneenk",
+        description:
+          "Design and fund-raise with custom merch designs in few clicks",
+        year: "2022",
+        techStack: "VueJS",
+        link: "https://kneenk-superhero.herokuapp.com/",
+      },
+      {
+        name: "Rilicare",
+        description: "A website to help patients access healthcare online",
+        year: "2022",
+        techStack: "VueJS",
+        link: "https://rilicare.netlify.app/",
+      },
+      {
+        name: "TRN",
+        description: "A consulting firm for organizations.",
+        year: "2022",
+        techStack: "VueJS",
+        link: "https://www.trn.com.ng/",
+      },
+      {
+        name: "ZURI",
+        description:
+          "A Law firm website to help you take care of all legal problems",
+        year: "2021",
+        techStack: "VueJS",
+        link: "https://zuri-zuri.netlify.app/",
+      },
+      {
+        name: "ENUM",
+        description:
+          "A platform housing curate courses on various skills and recruitment opportunities for corporate organizations, content providers, and individuals in all fields.",
+        year: "2021",
+        techStack: "VueJS",
+        link: "https://enum.africa/",
+      },
+    ]);
+    return {
+      projects,
+    };
+  },
 });
 </script>
 
