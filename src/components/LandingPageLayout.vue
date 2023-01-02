@@ -176,6 +176,13 @@ export default defineComponent({
         techStack: "VueJS",
         link: "https://enum.africa/",
       },
+      {
+        name: "DEV.TO",
+        description: "Dev.to clone",
+        year: "2022",
+        techStack: "VueJS",
+        link: "https://devto-cynthia.netlify.app/",
+      },
     ]);
     return {
       projects,
