@@ -139,6 +139,13 @@ export default defineComponent({
   setup() {
     const projects = ref<Project[]>([
       {
+        name: "DEV.TO",
+        description: "Dev.to clone",
+        year: "2022",
+        techStack: "VueJS",
+        link: "https://devto-cynthia.netlify.app/",
+      },
+      {
         name: "Kneenk",
         description:
           "Design and fund-raise with custom merch designs in few clicks",
@@ -175,13 +182,6 @@ export default defineComponent({
         year: "2021",
         techStack: "VueJS",
         link: "https://enum.africa/",
-      },
-      {
-        name: "DEV.TO",
-        description: "Dev.to clone",
-        year: "2022",
-        techStack: "VueJS",
-        link: "https://devto-cynthia.netlify.app/",
       },
     ]);
     return {
